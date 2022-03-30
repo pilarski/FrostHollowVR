@@ -1,4 +1,7 @@
-All custom project files (e.g., .mat), source assets (e.g., .wav, .fbx, .obj, .jpg, .png, .xcf), and data files (e.g., .csv, .txt) are treated under the same license as source code files, excluding Wind.wav and any files included in the standard distribution of Unity or standard Unity projects should they be present. 
+All custom project files (e.g., .mat), source assets (e.g., .wav, .fbx, .obj, .jpg, .png, .xcf), 
+and data files (e.g., .csv, .txt) are treated under the same license as source code files, 
+excluding Wind.wav and any files included in the standard distribution of Unity 
+or standard Unity projects should they be present. 
 
 Copyright 2021 Patrick M. Pilarski
 
