@@ -1,5 +1,5 @@
 # The Frost Hollow (Virtual Reality Implementation)
-A virtual reality (VR) environment for studying human-agent temporal decision making and signalling, characterized by a sparse reward reinforcement learning problem, audio+visual+vibrotactile stimulus, and partially observable domain mechanics.
+A virtual reality (VR) environment for studying temporal decision making and signalling between a human and an artifical intelligence (AI) agent, characterized by a sparse reward reinforcement learning problem, audio+visual+vibrotactile stimulus, and partially observable domain mechanics.
 
 <img height="200" alt="Frost Hollow Wide View" src="https://user-images.githubusercontent.com/1139429/160905645-79fa2329-fe07-45ec-9d22-7666fde7e77c.png"> <img height="200" alt="Frost Hollow Human-Agent Schematic" src="https://user-images.githubusercontent.com/1139429/160906742-e7940e38-59d5-443d-9d9f-a7b7e23bef4f.png">
  <img height="200" alt="Frost Hollow First Person View" src="https://user-images.githubusercontent.com/1139429/160905675-a7e1f392-952d-47ac-bf80-f1dddf256c4d.png"> 
